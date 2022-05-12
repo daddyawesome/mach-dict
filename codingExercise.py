@@ -1,3 +1,3 @@
-a = float(input())
+b = float(input())
 
-print(f"Salary: Php{a:.2f}")
+print(f"Salary: Php{b:.2f}")

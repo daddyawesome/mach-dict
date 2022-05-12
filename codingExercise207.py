@@ -1,0 +1,6 @@
+name = input("Name: ")
+age = int(input("Age: "))
+fcolor = input("Favorite Color: ")
+fmovie = input("Favorite Movie: ")
+mnumber = input("Mobile NUmber: ")
+mlife = input("Motto in life: ")
